@@ -3,6 +3,8 @@ package com.crossing.principle.singleresponsibility;
 /**
  * @author Crossing
  * @Date 2020-08-22
+ *
+ * 单一指责原则展示
  */
 public class SingleResponsibility1 {
 

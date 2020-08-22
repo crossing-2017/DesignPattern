@@ -3,6 +3,8 @@ package com.crossing.principle.segregation;
 /**
  * @author Crossing
  * @Date 2020-08-22
+ *
+ * 接口隔离原则展示
  */
 public class Segregation1 {
 
